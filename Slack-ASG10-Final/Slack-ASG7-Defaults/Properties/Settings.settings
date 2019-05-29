@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Slack_ASG7_Defaults.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultCity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Algoma</Value>
+    </Setting>
+    <Setting Name="DefaultState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WI</Value>
+    </Setting>
+    <Setting Name="DefaultZip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">54201</Value>
+    </Setting>
+    <Setting Name="EmployeeEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">slackjl1@my.witc.edu</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

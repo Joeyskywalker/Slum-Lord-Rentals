@@ -1,0 +1,14 @@
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\bin\Debug\Slack-ASG7-Defaults.exe.config
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\bin\Debug\Slack-ASG7-Defaults.exe
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\bin\Debug\Slack-ASG7-Defaults.pdb
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack-ASG7-Defaults.csprojAssemblyReference.cache
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.FormDefaults.resources
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.Properties.Resources.resources
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack-ASG7-Defaults.csproj.GenerateResource.cache
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack-ASG7-Defaults.csproj.CoreCompileInputs.cache
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack-ASG7-Defaults.exe
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack-ASG7-Defaults.pdb
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.FormMain.resources
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.FormTenant.resources
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.FormProperty.resources
+C:\Users\joey_\source\repos\Slack-ASG7-Defaults\Slack-ASG7-Defaults\obj\Debug\Slack_ASG7_Defaults.FormLease.resources
